@@ -1,6 +1,6 @@
 # WeatherApp
  
-# Weather_APP
+
  <!-- Intro-->
 
 <!--
@@ -21,7 +21,7 @@
 -->
 
 <div align="center">
-    <a href="https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/YousefIbrahimismail/Project-README-Template?color=ff69b4&style=for-the-badge"></a>
+<!--     <a href="https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/YousefIbrahimismail/Project-README-Template?color=ff69b4&style=for-the-badge"></a> -->
     <a href="https://github.com/YousefIbrahimismail/Project-README-Template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YousefIbrahimismail/Project-README-Template?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
     <a href="https://github.com/YousefIbrahimismail/Project-README-Template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/YousefIbrahimismail/Project-README-Template?color=brightgreen&label=issues&style=for-the-badge"></a>
     <a href="https://github.com/YousefIbrahimismail/Project-README-Template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/YousefIbrahimismail/Project-README-Template?color=9cf&label=forks&style=for-the-badge"></a>
@@ -41,7 +41,7 @@
 <div align="center">
     <a href="https://github.com/YousefIbrahimismail" target="_blank">
         <img src="/assets/Demo.png" 
-        alt="Logo" width="290" height="290">
+        alt="Logo" width="1000" height="600">
     </a>
 </div>
 
@@ -53,7 +53,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Vivid-Project-Readme-Template!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Weather App">
 </div>
 
 
@@ -65,7 +65,7 @@
 -->
 
 
-This simple project offers you a fully customizable and presentable README.md template using only Markdown and HTML, to help jump start your projects. follow the [How to use guide](#how-to-use-this-project).
+This simple project I built a sleek weather app using HTML, CSS, and JavaScript! 🌦️☀️ The app fetches real-time weather data, displaying the temperature, humidity, and forecast for any city. With a clean and intuitive user interface, users can easily navigate and check the weather updates. Feeling proud of how this project turned out! 💻✨.
 
 
 ## How to use this project<!-- Required -->
@@ -98,85 +98,11 @@ This simple project offers you a fully customizable and presentable README.md te
     <img alt="demo" src="https://user-images.githubusercontent.com/59213365/198179320-b9ec79a6-b5ca-47b9-9f29-125d18f6be70.gif">
 </div>
 
-## Table of Contents<!-- Optional -->
-<!-- 
-* This section is optional, yet having a contents table 
-* helps keeping your README readable and more professional.
-* 
-* If you are not familiar with HTML, no worries we all been there :) 
-* Review learning resources to create anchor links. 
--->
 
-
-<dev display="inline-table" vertical-align="middle">
-<table align="center" vertical-align="middle">
-        <tr>
-            <td><a href="#about">About</a></td>        
-            <td><a href="#how-to-use-this-project">Getting started</td>
-            <td><a href="#demo">Demo</a></td>
-            <td><a href="#project-roadmap--">Project Roadmap</a></td>
-            <td><a href="#documentation">Documentation</a></td>
-            <td><a href="#contributors">Contributors</a></td>
-        </tr>
-        <tr>
-            <td><a href="#acknowledgments">Acknowledgments</a></td>
-            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/tree/main/Learning_Resources">Learning Resources</a></td>
-            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide">
-            Step By Step Guide</a></td>
-            <td><a href="#feedback">Feedback</a></td>
-            <td><a href="#contact">Contact</a></td>
-            <td><a href="#license">License</a></td>
-        </tr>
-</table>
-</dev>
-
-
-<!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
-
-
-## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
-<!-- 
-* Add this section in case the project has different phases
-* 
-* Under production or will be updated.
--->
-
-- [x] Create first Template [Access blank Template](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md).
-- [ ] Update a More Dynamic README file.
-
-
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
-
-## Documentation<!-- Optional -->
-<!-- 
-* You may add any documentation or Wikis here
-* 
-* 
--->
 
 
 - [Wiki Step by Step](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide)
 
-
-## Contributors<!-- Required -->
-<!-- 
-* Without contribution we wouldn't have open source. 
-* 
-* Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
--->
-
-<a href="https://github.com/YousefIbrahimismail/Project-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YousefIbrahimismail/Project-README-Template" />
-</a>
-
-
-## Acknowledgments<!-- Optional -->
-<!-- 
-* Credit where it's do 
-* 
-* Feel free to share your inspiration sources, Stackoverflow questions, github repos, tools etc.
--->
 
 
 - [Make a Readme](https://www.makeareadme.com/)
