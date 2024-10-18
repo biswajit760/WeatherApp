@@ -68,7 +68,7 @@ This simple project I built a sleek weather app using HTML, CSS, and JavaScript!
 
 
 ## Watch this Project's Video on Linkedin
-[ Video of this Project ](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide)
+[ Video of this Project ](https://www.linkedin.com/posts/biswajit-mahanty-436347281_webdevelopment-weatherapp-html-activity-7252920688057962496-2p0j?utm_source=share&utm_medium=member_desktop)
 <br>
 <!--
 ## How to use this project<!-- Required -->
